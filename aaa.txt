@@ -2,3 +2,5 @@ haha
 哈哈
 I have created a new branch named 'dev'.
 I'm modifing aaa.txt on master branch.
+I'm modifing this file on feature1.
+I have just resolved the conflict.
